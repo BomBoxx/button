@@ -35,7 +35,7 @@ body
 .btn::before 
 {
     content: ''; 
-    position: absolute;
+    position: absolute; 
     top: var(--y);
     left: var(--x);
     transform: translate(-50%,-50%);
