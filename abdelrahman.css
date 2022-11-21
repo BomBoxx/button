@@ -43,7 +43,7 @@ body
     height: 0; 
     border-radius: 50%; 
     background: #aa14b2; 
-    transition: width 0.5s, height 0.5s;
+    transition: width 0.7s, height 0.7s;
 }
 .btn:hover::before
 {
