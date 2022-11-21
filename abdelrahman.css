@@ -45,7 +45,7 @@ body
     background: #aa14b2; 
     transition: width 0.7s, height 0.7s;
 }
-.btn:hover::before
+.btn:hover::before 
 {
     width:100px;
     height:100px;
