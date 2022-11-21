@@ -19,7 +19,7 @@ body
 }
 .btn 
 {
-    position:relative;
+    position:relative; 
     display: inline-flex;
     padding: 10px 30px;
     background: #363636;
